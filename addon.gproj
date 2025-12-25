@@ -1,0 +1,436 @@
+GameProject {
+ ID "HungarianTranslate"
+ GUID "6722172AEC1CD14B"
+ TITLE "HungarianTranslate"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+ Configurations {
+  GameProjectConfig PC {
+   WidgetManagerSettings WidgetManagerSettings "{AC4BE58770485E02}" {
+    StringTables {
+     StringTableDefinition "{623861A11F9E63BE}" {
+     }
+     StringTableDefinition "{518AE2E5A9361F76}" {
+     }
+     StringTableDefinition "{67314A25780B4387}" {
+      StringTableSource "{093880F194223BB3}Language/MY_localization.st"
+      Languages {
+       LanguageDefinition "{67314A257B6C8065}" {
+        Code "cs_cz"
+        StringTableRuntime "{D2A2A197F98B514D}Language/MY_localization.cs_cz.conf"
+       }
+       LanguageDefinition "{67314A257B6C8390}" {
+        Code "de_de"
+        StringTableRuntime "{07DCBBA4EA28406D}Language/MY_localization.de_de.conf"
+       }
+       LanguageDefinition "{67314A257B6C83AD}" {
+        Code "en_us"
+        StringTableRuntime "{592C31EF80DB456C}Language/MY_localization.en_us.conf"
+       }
+       LanguageDefinition "{67314A257B6C83B9}" {
+        Code "es_es"
+        StringTableRuntime "{9C607C666ED92E73}Language/MY_localization.es_es.conf"
+       }
+       LanguageDefinition "{67314A257B6C83B2}" {
+        Code "fr_fr"
+        StringTableRuntime "{27C88951885ACD71}Language/MY_localization.fr_fr.conf"
+       }
+       LanguageDefinition "{67314A257B6C83D9}" {
+        Code "it_it"
+        StringTableRuntime "{A7D4066525784E88}Language/MY_localization.it_it.conf"
+       }
+       LanguageDefinition "{67314A257B6C83D2}" {
+        Code "ja_jp"
+        StringTableRuntime "{B7CFBBF71B097E23}Language/MY_localization.ja_jp.conf"
+       }
+       LanguageDefinition "{67314A257B6C83ED}" {
+        Code "ko_kr"
+        StringTableRuntime "{1771935B88247D1C}Language/MY_localization.ko_kr.conf"
+       }
+       LanguageDefinition "{67314A257B6C83E7}" {
+        Code "pl_pl"
+        StringTableRuntime "{4B0035A136CBE160}Language/MY_localization.pl_pl.conf"
+       }
+       LanguageDefinition "{67314A257B6C83F3}" {
+        Code "pt_br"
+        StringTableRuntime "{9E77AF6D0D352BDA}Language/MY_localization.pt_br.conf"
+       }
+       LanguageDefinition "{67314A257B6C830F}" {
+        Code "ru_ru"
+        StringTableRuntime "{CB36BBC5904C4EAC}Language/MY_localization.ru_ru.conf"
+       }
+       LanguageDefinition "{67314A257B6C83CF}" {
+        Code "hu_hu"
+        StringTableRuntime "{6FE552E2C3F3F30A}Language/MY_localization.hu_hu.conf"
+       }
+       LanguageDefinition "{67314A257B6C8373}" {
+        Code "uk_ua"
+        StringTableRuntime "{416EEE33FC62F0F9}Language/MY_localization.uk_ua.conf"
+       }
+       LanguageDefinition "{67314A257B6C828C}" {
+        Code "zh_cn"
+        StringTableRuntime "{9BDE800EC5C220E4}Language/MY_localization.zh_cn.conf"
+       }
+      }
+     }
+    }
+   }
+  }
+  GameProjectConfig XBOX_ONE {
+       WidgetManagerSettings WidgetManagerSettings "{AC4BE58770485E02}" {
+    StringTables {
+     StringTableDefinition "{623861A11F9E63BE}" {
+     }
+     StringTableDefinition "{518AE2E5A9361F76}" {
+     }
+     StringTableDefinition "{67314A25780B4387}" {
+      StringTableSource "{093880F194223BB3}Language/MY_localization.st"
+      Languages {
+       LanguageDefinition "{67314A257B6C8065}" {
+        Code "cs_cz"
+        StringTableRuntime "{D2A2A197F98B514D}Language/MY_localization.cs_cz.conf"
+       }
+       LanguageDefinition "{67314A257B6C8390}" {
+        Code "de_de"
+        StringTableRuntime "{07DCBBA4EA28406D}Language/MY_localization.de_de.conf"
+       }
+       LanguageDefinition "{67314A257B6C83AD}" {
+        Code "en_us"
+        StringTableRuntime "{592C31EF80DB456C}Language/MY_localization.en_us.conf"
+       }
+       LanguageDefinition "{67314A257B6C83B9}" {
+        Code "es_es"
+        StringTableRuntime "{9C607C666ED92E73}Language/MY_localization.es_es.conf"
+       }
+       LanguageDefinition "{67314A257B6C83B2}" {
+        Code "fr_fr"
+        StringTableRuntime "{27C88951885ACD71}Language/MY_localization.fr_fr.conf"
+       }
+       LanguageDefinition "{67314A257B6C83D9}" {
+        Code "it_it"
+        StringTableRuntime "{A7D4066525784E88}Language/MY_localization.it_it.conf"
+       }
+       LanguageDefinition "{67314A257B6C83D2}" {
+        Code "ja_jp"
+        StringTableRuntime "{B7CFBBF71B097E23}Language/MY_localization.ja_jp.conf"
+       }
+       LanguageDefinition "{67314A257B6C83ED}" {
+        Code "ko_kr"
+        StringTableRuntime "{1771935B88247D1C}Language/MY_localization.ko_kr.conf"
+       }
+       LanguageDefinition "{67314A257B6C83E7}" {
+        Code "pl_pl"
+        StringTableRuntime "{4B0035A136CBE160}Language/MY_localization.pl_pl.conf"
+       }
+       LanguageDefinition "{67314A257B6C83F3}" {
+        Code "pt_br"
+        StringTableRuntime "{9E77AF6D0D352BDA}Language/MY_localization.pt_br.conf"
+       }
+       LanguageDefinition "{67314A257B6C830F}" {
+        Code "ru_ru"
+        StringTableRuntime "{CB36BBC5904C4EAC}Language/MY_localization.ru_ru.conf"
+       }
+       LanguageDefinition "{67314A257B6C83CF}" {
+        Code "hu_hu"
+        StringTableRuntime "{6FE552E2C3F3F30A}Language/MY_localization.hu_hu.conf"
+       }
+       LanguageDefinition "{67314A257B6C8373}" {
+        Code "uk_ua"
+        StringTableRuntime "{416EEE33FC62F0F9}Language/MY_localization.uk_ua.conf"
+       }
+       LanguageDefinition "{67314A257B6C828C}" {
+        Code "zh_cn"
+        StringTableRuntime "{9BDE800EC5C220E4}Language/MY_localization.zh_cn.conf"
+       }
+      }
+     }
+    }
+   }
+  }
+  GameProjectConfig XBOX_SERIES {
+       WidgetManagerSettings WidgetManagerSettings "{AC4BE58770485E02}" {
+    StringTables {
+     StringTableDefinition "{623861A11F9E63BE}" {
+     }
+     StringTableDefinition "{518AE2E5A9361F76}" {
+     }
+     StringTableDefinition "{67314A25780B4387}" {
+      StringTableSource "{093880F194223BB3}Language/MY_localization.st"
+      Languages {
+       LanguageDefinition "{67314A257B6C8065}" {
+        Code "cs_cz"
+        StringTableRuntime "{D2A2A197F98B514D}Language/MY_localization.cs_cz.conf"
+       }
+       LanguageDefinition "{67314A257B6C8390}" {
+        Code "de_de"
+        StringTableRuntime "{07DCBBA4EA28406D}Language/MY_localization.de_de.conf"
+       }
+       LanguageDefinition "{67314A257B6C83AD}" {
+        Code "en_us"
+        StringTableRuntime "{592C31EF80DB456C}Language/MY_localization.en_us.conf"
+       }
+       LanguageDefinition "{67314A257B6C83B9}" {
+        Code "es_es"
+        StringTableRuntime "{9C607C666ED92E73}Language/MY_localization.es_es.conf"
+       }
+       LanguageDefinition "{67314A257B6C83B2}" {
+        Code "fr_fr"
+        StringTableRuntime "{27C88951885ACD71}Language/MY_localization.fr_fr.conf"
+       }
+       LanguageDefinition "{67314A257B6C83D9}" {
+        Code "it_it"
+        StringTableRuntime "{A7D4066525784E88}Language/MY_localization.it_it.conf"
+       }
+       LanguageDefinition "{67314A257B6C83D2}" {
+        Code "ja_jp"
+        StringTableRuntime "{B7CFBBF71B097E23}Language/MY_localization.ja_jp.conf"
+       }
+       LanguageDefinition "{67314A257B6C83ED}" {
+        Code "ko_kr"
+        StringTableRuntime "{1771935B88247D1C}Language/MY_localization.ko_kr.conf"
+       }
+       LanguageDefinition "{67314A257B6C83E7}" {
+        Code "pl_pl"
+        StringTableRuntime "{4B0035A136CBE160}Language/MY_localization.pl_pl.conf"
+       }
+       LanguageDefinition "{67314A257B6C83F3}" {
+        Code "pt_br"
+        StringTableRuntime "{9E77AF6D0D352BDA}Language/MY_localization.pt_br.conf"
+       }
+       LanguageDefinition "{67314A257B6C830F}" {
+        Code "ru_ru"
+        StringTableRuntime "{CB36BBC5904C4EAC}Language/MY_localization.ru_ru.conf"
+       }
+       LanguageDefinition "{67314A257B6C83CF}" {
+        Code "hu_hu"
+        StringTableRuntime "{6FE552E2C3F3F30A}Language/MY_localization.hu_hu.conf"
+       }
+       LanguageDefinition "{67314A257B6C8373}" {
+        Code "uk_ua"
+        StringTableRuntime "{416EEE33FC62F0F9}Language/MY_localization.uk_ua.conf"
+       }
+       LanguageDefinition "{67314A257B6C828C}" {
+        Code "zh_cn"
+        StringTableRuntime "{9BDE800EC5C220E4}Language/MY_localization.zh_cn.conf"
+       }
+      }
+     }
+    }
+   }
+  }
+  GameProjectConfig PS4 {
+       WidgetManagerSettings WidgetManagerSettings "{AC4BE58770485E02}" {
+    StringTables {
+     StringTableDefinition "{623861A11F9E63BE}" {
+     }
+     StringTableDefinition "{518AE2E5A9361F76}" {
+     }
+     StringTableDefinition "{67314A25780B4387}" {
+      StringTableSource "{093880F194223BB3}Language/MY_localization.st"
+      Languages {
+       LanguageDefinition "{67314A257B6C8065}" {
+        Code "cs_cz"
+        StringTableRuntime "{D2A2A197F98B514D}Language/MY_localization.cs_cz.conf"
+       }
+       LanguageDefinition "{67314A257B6C8390}" {
+        Code "de_de"
+        StringTableRuntime "{07DCBBA4EA28406D}Language/MY_localization.de_de.conf"
+       }
+       LanguageDefinition "{67314A257B6C83AD}" {
+        Code "en_us"
+        StringTableRuntime "{592C31EF80DB456C}Language/MY_localization.en_us.conf"
+       }
+       LanguageDefinition "{67314A257B6C83B9}" {
+        Code "es_es"
+        StringTableRuntime "{9C607C666ED92E73}Language/MY_localization.es_es.conf"
+       }
+       LanguageDefinition "{67314A257B6C83B2}" {
+        Code "fr_fr"
+        StringTableRuntime "{27C88951885ACD71}Language/MY_localization.fr_fr.conf"
+       }
+       LanguageDefinition "{67314A257B6C83D9}" {
+        Code "it_it"
+        StringTableRuntime "{A7D4066525784E88}Language/MY_localization.it_it.conf"
+       }
+       LanguageDefinition "{67314A257B6C83D2}" {
+        Code "ja_jp"
+        StringTableRuntime "{B7CFBBF71B097E23}Language/MY_localization.ja_jp.conf"
+       }
+       LanguageDefinition "{67314A257B6C83ED}" {
+        Code "ko_kr"
+        StringTableRuntime "{1771935B88247D1C}Language/MY_localization.ko_kr.conf"
+       }
+       LanguageDefinition "{67314A257B6C83E7}" {
+        Code "pl_pl"
+        StringTableRuntime "{4B0035A136CBE160}Language/MY_localization.pl_pl.conf"
+       }
+       LanguageDefinition "{67314A257B6C83F3}" {
+        Code "pt_br"
+        StringTableRuntime "{9E77AF6D0D352BDA}Language/MY_localization.pt_br.conf"
+       }
+       LanguageDefinition "{67314A257B6C830F}" {
+        Code "ru_ru"
+        StringTableRuntime "{CB36BBC5904C4EAC}Language/MY_localization.ru_ru.conf"
+       }
+       LanguageDefinition "{67314A257B6C83CF}" {
+        Code "hu_hu"
+        StringTableRuntime "{6FE552E2C3F3F30A}Language/MY_localization.hu_hu.conf"
+       }
+       LanguageDefinition "{67314A257B6C8373}" {
+        Code "uk_ua"
+        StringTableRuntime "{416EEE33FC62F0F9}Language/MY_localization.uk_ua.conf"
+       }
+       LanguageDefinition "{67314A257B6C828C}" {
+        Code "zh_cn"
+        StringTableRuntime "{9BDE800EC5C220E4}Language/MY_localization.zh_cn.conf"
+       }
+      }
+     }
+    }
+   }
+  }
+  GameProjectConfig PS5 {
+       WidgetManagerSettings WidgetManagerSettings "{AC4BE58770485E02}" {
+    StringTables {
+     StringTableDefinition "{623861A11F9E63BE}" {
+     }
+     StringTableDefinition "{518AE2E5A9361F76}" {
+     }
+     StringTableDefinition "{67314A25780B4387}" {
+      StringTableSource "{093880F194223BB3}Language/MY_localization.st"
+      Languages {
+       LanguageDefinition "{67314A257B6C8065}" {
+        Code "cs_cz"
+        StringTableRuntime "{D2A2A197F98B514D}Language/MY_localization.cs_cz.conf"
+       }
+       LanguageDefinition "{67314A257B6C8390}" {
+        Code "de_de"
+        StringTableRuntime "{07DCBBA4EA28406D}Language/MY_localization.de_de.conf"
+       }
+       LanguageDefinition "{67314A257B6C83AD}" {
+        Code "en_us"
+        StringTableRuntime "{592C31EF80DB456C}Language/MY_localization.en_us.conf"
+       }
+       LanguageDefinition "{67314A257B6C83B9}" {
+        Code "es_es"
+        StringTableRuntime "{9C607C666ED92E73}Language/MY_localization.es_es.conf"
+       }
+       LanguageDefinition "{67314A257B6C83B2}" {
+        Code "fr_fr"
+        StringTableRuntime "{27C88951885ACD71}Language/MY_localization.fr_fr.conf"
+       }
+       LanguageDefinition "{67314A257B6C83D9}" {
+        Code "it_it"
+        StringTableRuntime "{A7D4066525784E88}Language/MY_localization.it_it.conf"
+       }
+       LanguageDefinition "{67314A257B6C83D2}" {
+        Code "ja_jp"
+        StringTableRuntime "{B7CFBBF71B097E23}Language/MY_localization.ja_jp.conf"
+       }
+       LanguageDefinition "{67314A257B6C83ED}" {
+        Code "ko_kr"
+        StringTableRuntime "{1771935B88247D1C}Language/MY_localization.ko_kr.conf"
+       }
+       LanguageDefinition "{67314A257B6C83E7}" {
+        Code "pl_pl"
+        StringTableRuntime "{4B0035A136CBE160}Language/MY_localization.pl_pl.conf"
+       }
+       LanguageDefinition "{67314A257B6C83F3}" {
+        Code "pt_br"
+        StringTableRuntime "{9E77AF6D0D352BDA}Language/MY_localization.pt_br.conf"
+       }
+       LanguageDefinition "{67314A257B6C830F}" {
+        Code "ru_ru"
+        StringTableRuntime "{CB36BBC5904C4EAC}Language/MY_localization.ru_ru.conf"
+       }
+       LanguageDefinition "{67314A257B6C83CF}" {
+        Code "hu_hu"
+        StringTableRuntime "{6FE552E2C3F3F30A}Language/MY_localization.hu_hu.conf"
+       }
+       LanguageDefinition "{67314A257B6C8373}" {
+        Code "uk_ua"
+        StringTableRuntime "{416EEE33FC62F0F9}Language/MY_localization.uk_ua.conf"
+       }
+       LanguageDefinition "{67314A257B6C828C}" {
+        Code "zh_cn"
+        StringTableRuntime "{9BDE800EC5C220E4}Language/MY_localization.zh_cn.conf"
+       }
+      }
+     }
+    }
+   }
+  }
+  GameProjectConfig HEADLESS {
+       WidgetManagerSettings WidgetManagerSettings "{AC4BE58770485E02}" {
+    StringTables {
+     StringTableDefinition "{623861A11F9E63BE}" {
+     }
+     StringTableDefinition "{518AE2E5A9361F76}" {
+     }
+     StringTableDefinition "{67314A25780B4387}" {
+      StringTableSource "{093880F194223BB3}Language/MY_localization.st"
+      Languages {
+       LanguageDefinition "{67314A257B6C8065}" {
+        Code "cs_cz"
+        StringTableRuntime "{D2A2A197F98B514D}Language/MY_localization.cs_cz.conf"
+       }
+       LanguageDefinition "{67314A257B6C8390}" {
+        Code "de_de"
+        StringTableRuntime "{07DCBBA4EA28406D}Language/MY_localization.de_de.conf"
+       }
+       LanguageDefinition "{67314A257B6C83AD}" {
+        Code "en_us"
+        StringTableRuntime "{592C31EF80DB456C}Language/MY_localization.en_us.conf"
+       }
+       LanguageDefinition "{67314A257B6C83B9}" {
+        Code "es_es"
+        StringTableRuntime "{9C607C666ED92E73}Language/MY_localization.es_es.conf"
+       }
+       LanguageDefinition "{67314A257B6C83B2}" {
+        Code "fr_fr"
+        StringTableRuntime "{27C88951885ACD71}Language/MY_localization.fr_fr.conf"
+       }
+       LanguageDefinition "{67314A257B6C83D9}" {
+        Code "it_it"
+        StringTableRuntime "{A7D4066525784E88}Language/MY_localization.it_it.conf"
+       }
+       LanguageDefinition "{67314A257B6C83D2}" {
+        Code "ja_jp"
+        StringTableRuntime "{B7CFBBF71B097E23}Language/MY_localization.ja_jp.conf"
+       }
+       LanguageDefinition "{67314A257B6C83ED}" {
+        Code "ko_kr"
+        StringTableRuntime "{1771935B88247D1C}Language/MY_localization.ko_kr.conf"
+       }
+       LanguageDefinition "{67314A257B6C83E7}" {
+        Code "pl_pl"
+        StringTableRuntime "{4B0035A136CBE160}Language/MY_localization.pl_pl.conf"
+       }
+       LanguageDefinition "{67314A257B6C83F3}" {
+        Code "pt_br"
+        StringTableRuntime "{9E77AF6D0D352BDA}Language/MY_localization.pt_br.conf"
+       }
+       LanguageDefinition "{67314A257B6C830F}" {
+        Code "ru_ru"
+        StringTableRuntime "{CB36BBC5904C4EAC}Language/MY_localization.ru_ru.conf"
+       }
+       LanguageDefinition "{67314A257B6C83CF}" {
+        Code "hu_hu"
+        StringTableRuntime "{6FE552E2C3F3F30A}Language/MY_localization.hu_hu.conf"
+       }
+       LanguageDefinition "{67314A257B6C8373}" {
+        Code "uk_ua"
+        StringTableRuntime "{416EEE33FC62F0F9}Language/MY_localization.uk_ua.conf"
+       }
+       LanguageDefinition "{67314A257B6C828C}" {
+        Code "zh_cn"
+        StringTableRuntime "{9BDE800EC5C220E4}Language/MY_localization.zh_cn.conf"
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,24 @@
+HorizontalLayoutWidgetClass {
+ {
+  ScrollLayoutWidgetClass "{000000009881A4C7}" {
+   Prefab "{000000009881A4C7}"
+   {
+    VerticalLayoutWidgetClass "{00000000C099DEEF}" {
+     Prefab "{00000000C099DEEF}"
+     {
+      ButtonWidgetClass "{58869E8B290F9174}" {
+       Prefab "{58869E8B290F9174}"
+       components {
+        SCR_SpinBoxComponent "{5472C6CBC0640458}" {
+         m_aElementNames {
+          "#AR-Settings_Language_English" "#AR-Settings_Language_French" "#AR-Settings_Language_Italian" "#AR-Settings_Language_German" "#AR-Settings_Language_Spanish" "#AR-Settings_Language_Czech" "#AR-Settings_Language_Polish" "#AR-Settings_Language_Russian" "#AR-Settings_Language_Japanese" "#AR-Settings_Language_Korean" "#AR-Settings_Language_PortugeseBrazil" "#AR-Settings_Language_Chinese" "#AR-Settings_Language_Hungarian" "#AR-Settings_Language_Ukrainian"
+         }
+        }
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+}
