@@ -57,6 +57,6 @@ modded class SCR_GameplaySettingsSubMenu
 		GetGame().UserSettingsChanged();
 
 		m_OnLanguageChanged.Invoke(this);
-		SCR_AnalyticsApplication.GetInstance().ChangeSetting(m_sUserInterfaceSettings, settingName);
+		//SCR_AnalyticsApplication.GetInstance().ChangeSetting(m_sUserInterfaceSettings, settingName);
 	}
 }
